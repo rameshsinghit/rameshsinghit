@@ -14,8 +14,9 @@ I am an Application Support Engineer with over 3.5 years of experience in managi
 | **Monitoring & Tools**|Grafana, Control-M, Postman (API Testing), PuTTY, WinSCP |
 | **Databases** | Oracle, SQL (Joins, Subqueries), PL/SQL|
 | **Scripting** | Shell Scripting (Bash), awk, sed, grep, crontab[|
-| **ITSM & Support** | ServiceNow, SapphireIMS, Production Support, Application Support, Incident
-                                                      & Problem Management, .|
+| **ITSM & Support** | ServiceNow, Production Support, Application Support, Incident & Problem Management SLA Management, Batch Job Monitoring, Log Analysis, (RCA), Ticket Handling (P1–P3), Deployment Support, 24×7
+Support..|
+                                                      
 
 ---
 
