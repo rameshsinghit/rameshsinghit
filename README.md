@@ -52,4 +52,4 @@ I am an Application Support Engineer with over 3.5 years of experience in managi
 ### 📫 Contact Details
 - 💼 **LinkedIn:** [linkedin.com/in/rameshsinghit](https://www.linkedin.com/in/rameshsinghit)
 - 📧 **Email:** [rameshit1616@gmail.com](mailto:rameshit1616@gmail.com)
-- 📍 **Location:** [cite_start]Gurgaon, India
+- 📍 **Location:** Gurgaon, India
