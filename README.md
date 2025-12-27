@@ -31,6 +31,7 @@ I am an Application Support Engineer with over 3.5 years of experience in managi
 #### **Technical Support Engineer | Aforeserve.com Limited**
 *June 2022 – March 2023
 
+- **OS Management:** Managed installation and troubleshooting of Windows 10/11 and Linux-based systems for 100+ users.
 - **Technical Support:** Resolved L1/L2 queries related to system crashes and application performance.
 - **Network Support:** Handled LAN/WAN, VPN, and connectivity issues.
 - **User Admin:** Managed user access and permissions via Active Directory.
