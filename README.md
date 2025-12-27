@@ -14,7 +14,7 @@ I am an Application Support Engineer with over 3.5 years of experience in managi
 | **Monitoring & Tools** | Grafana, Control-M, Postman (API Testing), PuTTY, WinSCP |
 | **Databases** | Oracle, SQL (Joins, Subqueries), PL/SQL |
 | **Scripting** | Shell Scripting (Bash), awk, sed, grep, crontab |
-| **ITSM & Support** | ServiceNow, SapphireIMS, Incident, Problem & Change Management |
+| **ITSM & Support** | ServiceNow, SapphireIMS, Production Support, Application Support, Incident & Problem Management, Change Management (ITIL Framework), SLA Management, Batch Job         Monitoring, Log Analysis, (RCA), Ticket Handling (P1–P3), Deployment Support, 24×7  |
 
 ---
 
@@ -31,12 +31,11 @@ I am an Application Support Engineer with over 3.5 years of experience in managi
 
 #### **Technical Support Engineer | Aforeserve.com Limited**
 *June 2022 – March 2023*
-- OS Management: Managed installation and troubleshooting of Windows 10/11 and Linux-based systems for
-100+ users.
--Technical Support: Resolved L1/L2 queries related to system crashes and application performance.
--Network Support: Handled LAN/WAN, VPN, and connectivity issues.
-• User Admin: Managed user access and permissions via Active Directory.
-• Ticketing: Maintained high SLA compliance using ticketing tools.
+- OS Management: Managed installation and troubleshooting of Windows 10/11 and Linux-based systems for 100+ users.
+- **Technical Support:** Resolved L1/L2 queries related to system crashes and application performance.
+- **Network Support:** Handled LAN/WAN, VPN, and connectivity issues.
+- **User Admin:** Managed user access and permissions via Active Directory.
+- **Ticketing:** Maintained high SLA compliance using ticketing tools.
 ---
 
 ### 🎓 Education
