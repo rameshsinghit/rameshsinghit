@@ -2,7 +2,7 @@
 
 **Application Support Engineer | Linux & SQL Specialist | Automation Enthusiast**
 
-I am an Application Support Engineer with over 3.5 years of experience in managing high-availability production environments. [cite_start]I specialize in Linux/Unix administration, SQL-based troubleshooting, and Incident Management following the ITIL framework[cite: 5]. [cite_start]I have a proven track record of maintaining 98%+ SLA compliance for critical P1/P2 incidents.
+I am an Application Support Engineer with over 3.5 years of experience in managing high-availability production environments.I specialize in Linux/Unix administration, SQL-based troubleshooting, and Incident Management following the ITIL framework. I have a proven track record of maintaining 98%+ SLA compliance for critical P1/P2 incidents.
 
 ---
 
@@ -22,10 +22,10 @@ I am an Application Support Engineer with over 3.5 years of experience in managi
 
 #### **Application Support Engineer | Satyam Auto Components Pvt. Ltd.**
 *May 2023 – Present*
-- **Production Monitoring:** Proactively monitoring Linux/Unix servers and business-critical applications in 24/7 environments using Grafana and Control-M[cite: 21].
-- **Incident Management:** Managing the full lifecycle of P1/P2/P3 incidents and resolving tickets within defined SLAs[cite: 22].
-- **Automation:** Developed and deployed custom Shell scripts for health checks and log monitoring, reducing manual effort by 30%[cite: 24].
-- **Root Cause Analysis:** Spearheading RCA for complex issues and implementing permanent fixes through SQL optimization and automated task scheduling[cite: 25].
+- **Production Monitoring:** Proactively monitoring Linux/Unix servers and business-critical applications in 24/7 environments using Grafana and Control-M.
+- **Incident Management:** Managing the full lifecycle of P1/P2/P3 incidents and resolving tickets within defined SLAs.
+- **Automation:** Developed and deployed custom Shell scripts for health checks and log monitoring, reducing manual effort by 30%.
+- **Root Cause Analysis:** Spearheading RCA for complex issues and implementing permanent fixes through SQL optimization and automated task scheduling.
 
 #### **Technical Support Engineer | Aforeserve.com Limited**
 *June 2022 – March 2023
@@ -49,4 +49,4 @@ I am an Application Support Engineer with over 3.5 years of experience in managi
 ### 📫 Contact Details
 - 💼 **LinkedIn:** [linkedin.com/in/rameshsinghit](https://www.linkedin.com/in/rameshsinghit)
 - 📧 **Email:** [rameshit1616@gmail.com](mailto:rameshit1616@gmail.com)
-- 📍 **Location:** [cite_start]Gurgaon, India[cite: 2]
+- 📍 **Location:** Gurgaon, India
