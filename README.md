@@ -27,6 +27,8 @@ I am an Application Support Engineer with over 3.5 years of experience in managi
 - **Incident Management:** Managing the full lifecycle of P1/P2/P3 incidents and resolving tickets within defined SLAs.
 - **Automation:** Developed and deployed custom Shell scripts for health checks and log monitoring, reducing manual effort by 30%.
 - **Root Cause Analysis:** Spearheading RCA for complex issues and implementing permanent fixes through SQL optimization and automated task scheduling.
+- **API & Deployment Support:** Validate application functionality using Postman (basic) and assist infrastructure teams during patching and deployment activities.
+- **System Administration Support:** Use shell scripts to manage user accounts, monitor disk usage (LVM basics),and perform automated log rotation.
 
 #### **Technical Support Engineer | Aforeserve.com Limited**
 *June 2022 – March 2023
