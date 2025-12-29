@@ -43,12 +43,6 @@ I am an Application Support Engineer with over 3.5 years of experience in managi
 
 ---
 
-### 📊 GitHub Metrics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical)
-
----
-
 ### 📫 Contact Details
 - 💼 **LinkedIn:** [linkedin.com/in/rameshsinghit](https://www.linkedin.com/in/rameshsinghit)
 - 📧 **Email:** [rameshit1616@gmail.com](mailto:rameshit1616@gmail.com)
