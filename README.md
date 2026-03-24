@@ -2,7 +2,7 @@
 
 **Application Support Engineer | Linux & SQL Specialist | Automation Enthusiast**
 
-I am an Application Support Engineer with over 3.5 years of experience in managing high-availability production environments. I specialize in Linux/Unix administration, SQL-based troubleshooting, and Incident Management following the ITIL framework. I have a proven track record of maintaining 98%+ SLA compliance for critical P1/P2 incidents.
+I am an Application Support Engineer with over 3.8 years of experience in managing high-availability production environments. I specialize in Linux/Unix administration, SQL-based troubleshooting, and Incident Management following the ITIL framework. I have a proven track record of maintaining 98%+ SLA compliance for critical P1/P2 incidents.
 
 ---
 
